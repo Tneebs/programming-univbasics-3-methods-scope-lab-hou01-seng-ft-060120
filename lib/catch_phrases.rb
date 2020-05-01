@@ -14,7 +14,7 @@ def link
 end
 
 def all_phrases
-  puts "#{mario} #{toadstool}/n"
+  puts "#{mario} #{toadstool}\n #{link}\n"
 end
 
 
