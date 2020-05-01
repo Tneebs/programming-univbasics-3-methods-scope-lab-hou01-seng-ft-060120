@@ -14,7 +14,8 @@ def link
 end
 
 def all_phrases
-  puts "#{mario} #{toadstool}\n #{link}\n"
+  everyone = "#{mario} #{toadstool}\n #{link}\n"
+  puts everyone
 end
 
 
