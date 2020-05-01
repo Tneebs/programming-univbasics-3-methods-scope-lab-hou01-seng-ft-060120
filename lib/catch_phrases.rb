@@ -13,6 +13,11 @@ def link
   puts warning
 end
 
+def all_phrases
+    
+end
+
+
 mario 
 toadstool
 link
